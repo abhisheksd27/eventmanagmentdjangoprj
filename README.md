@@ -1,0 +1,2 @@
+# eventmanagmentdjangoprj
+ event management
